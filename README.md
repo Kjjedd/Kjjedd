@@ -35,7 +35,8 @@
 - `eksctl` 기반 구성과 검증, Kustomize staging overlay, Argo CD Application을 직접 작성했습니다.
 - `kubectl` 검증 절차와 이슈 문서를 남겨 팀이 재사용할 수 있는 기준 환경을 정리했습니다.
 
-**Stack** · AWS EKS · Kubernetes · Argo CD · Kustomize · GitHub Actions · Bash
+**Stack** · AWS EKS · Kubernetes · Argo CD · Kustomize · GitHub Actions · Bash  
+[프로젝트 저장소 보기 →](https://github.com/Kjjedd/multi-region-eks-gitops)
 
 <br />
 
