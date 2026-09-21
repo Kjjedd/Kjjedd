@@ -31,7 +31,7 @@
 <br />
 
 ### 02. Multi-Region EKS GitOps — Osaka Staging
-**AWS Cloud School 프로젝트 · 2026.03–04 · 3인 팀**
+**2026.03–04 · 3인 팀**
 
 - Osaka Staging 구축과 검증의 첫 담당자로 참여했습니다.
 - `eksctl` 기반 구성과 검증, Kustomize staging overlay, Argo CD Application을 직접 작성했습니다.
@@ -43,7 +43,7 @@
 <br />
 
 ### 03. Docker Swarm Auto Scaling
-**AWS Cloud School 프로젝트 · 2026.02–03 · 3인 팀**
+**2026.02–03 · 3인 팀**
 
 - CI/CD, Shell·Prometheus 자동화, 실험 설계와 수행을 담당했습니다.
 - EC2 3대 환경에서 Shell·Prometheus와 CloudWatch·SNS 기반 scale-out 방식의 반응과 운영상 trade-off를 비교했습니다.
@@ -68,4 +68,4 @@
 
 <br />
 
-<sub>계정 식별자, 접근 정보, 운영 중인 서비스의 민감한 세부 사항은 공개하지 않습니다.</sub>
+
