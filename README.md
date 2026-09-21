@@ -17,7 +17,7 @@
 ## Selected Projects
 
 ### 01. BADA — AWS 기반 임금체불 증거 패키징 서비스
-**AWS Cloud School 최종 프로젝트 · 2026.05–07 · 5인 팀 · 우수상 수상**
+**AWS Cloud School 최종 프로젝트 · 2026.05–07 · 5인 팀 ·**
 
 - 인프라, CI/CD, IaC를 맡아 Terraform과 GitHub Actions 워크플로를 구성했습니다.
 - `Plan → PR 검토 → 수동 Apply → AWS·HTTP 상태 확인` 흐름으로 변경을 통제했습니다.
